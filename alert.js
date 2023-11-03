@@ -1,4 +1,4 @@
 function loading() {
     document.getElementById("carregando")
-    alert("Bem vindo ao Site !")
+    alert("O site foi carregado!, Bem vindo(a)")
 }
